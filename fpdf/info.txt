@@ -1,0 +1,4 @@
+download FPDF Library from 
+http://www.fpdf.org/en/download.php
+
+then extract the contents to <project folder>/fpdf
